@@ -24,5 +24,5 @@ output_label.pack(pady=20)
 # Button to update label
 ttk.Button(window, text='Update Label', command=set_label).pack(pady=10)
  
-# Run app
+# Run app Jedidiah
 window.mainloop()
