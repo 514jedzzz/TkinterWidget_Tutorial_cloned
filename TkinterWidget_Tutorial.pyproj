@@ -28,6 +28,7 @@
     <Compile Include="EXERCISE\Radiobutton_Excersice.py" />
     <Compile Include="EXERCISE\Spinbox.py" />
     <Compile Include="EXERCISE\TextEntry_Exercise.py" />
+    <Compile Include="EXERCISE\TK_Text_Exercise.py" />
     <Compile Include="EXERCISE\Treeview_exercise.py" />
     <Compile Include="TkinterWidget_Tutorial.py" />
   </ItemGroup>
