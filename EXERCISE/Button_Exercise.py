@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
  
-# Create window
+# Create window 4
 window = tk.Tk()
 window.title('Tkinter Text Entry Widget')
 window.geometry('400x300')
