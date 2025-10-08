@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="EXERCISE\Button_Exercise.py" />
+    <Compile Include="EXERCISE\Checkbutton_Excersise.py" />
     <Compile Include="EXERCISE\Label_Exercise.py" />
     <Compile Include="EXERCISE\module1.py" />
     <Compile Include="EXERCISE\Radiobutton_Excersice.py" />
