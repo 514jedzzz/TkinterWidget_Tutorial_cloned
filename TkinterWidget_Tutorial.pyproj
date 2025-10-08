@@ -24,6 +24,7 @@
     <Compile Include="EXERCISE\Button_Exercise.py" />
     <Compile Include="EXERCISE\Label_Exercise.py" />
     <Compile Include="EXERCISE\module1.py" />
+    <Compile Include="EXERCISE\Radiobutton_Excersice.py" />
     <Compile Include="EXERCISE\Spinbox.py" />
     <Compile Include="EXERCISE\TextEntry_Exercise.py" />
     <Compile Include="EXERCISE\Treeview_exercise.py" />
